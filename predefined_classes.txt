@@ -1,0 +1,6 @@
+EV AUTO
+AUTO
+PERSON
+person
+Rikshaw
+car
